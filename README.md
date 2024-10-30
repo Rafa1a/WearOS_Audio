@@ -1,5 +1,5 @@
 # Wear OS Audio Assistance App - Projeto DOMA
-
+ 
 Este projeto consiste em um aplicativo desenvolvido pela empresa DOMA para dispositivos Wear OS, voltado para oferecer assistência para pessoas com deficiência visual. O aplicativo monitora as notificações do dispositivo e converte-as em áudio, proporcionando uma experiência de uso acessível e inclusiva.
 
 ## Funcionalidades
